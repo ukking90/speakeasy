@@ -1,5 +1,3 @@
-'use strict';
-
 var base32 = require('base32.js');
 var crypto = require('crypto');
 var url = require('url');
